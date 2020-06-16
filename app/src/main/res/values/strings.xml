@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AD 340</string>
+    <string name="Enter_zip">Enter your zipcode</string>
+    <string name="button_zipcode">SUBMIT ZIPCODE</string>
+    <string name="zip_hint">Enter zipcode</string>
+    <string name="zipcode_entry_error">Please enter valid zipcode</string>
 </resources>
